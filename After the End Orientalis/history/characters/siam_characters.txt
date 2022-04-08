@@ -75,7 +75,7 @@
 	culture=thai_central
 	religion=dharmayuttika
 	martial=4
-	diplomacy=2
+	diplomacy=3
 	stewardship=7
 	intrigue=4
 	learning=6
