@@ -177,17 +177,30 @@ southwest_tai = {
         color = { 0.4 0.32 0.8 }
 		
 		male_names = {
-			Kaeo Ket Daeng
-			Buasri
-			Mingla Kan
-			Salung-kam Saeng-la Saengkam
+			Aiseuk 
+			Bakeo 
+			Chanpha Chao-ngai Chaosang
+			Direk Doitung
+			Inta Inpheng Inlao
+			Jaiya
+			Kaeo Ket Kamput Kan Ketkeo Kampho Kampan Kamoei Kamla Kasalong
+			Mangkhla Mingla Moon Mueangin Mueangchai Mueangram Mueangsing Mueangkham Mingmueang Mueangmaen
+			Salung-kam Saeng-la Saengkam Salung-kam Saeng-la Saengkam Singkam Saokeo 
 			Kamput Singkam Inta
+			Tarnkes Thaksin
+			Viengkeo
 		}
         
         female_names = {
-            Malee Mali Panmaj
-			Buachan Chanpha
-			Kingkaew Kasalong Kwanlamink Ketkaew Kampujoo
+            Aichan 
+			Buachan Buakheo Buatong Buasai Buaban Buakeo Buaburi Buakhli
+			Chanpha Chompu Chantip
+			Fongchan
+			Homnuan
+			Janphen Jantip
+			Kingkaew Kasalong Kwanlamink Ketkaew Khamkeo Kad Khamsi Kham-Ueai
+			Linda
+			Malee Mali Panmaj
 			Paifa Salung-ngen
 			Namjai 
         }
