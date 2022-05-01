@@ -10081,9 +10081,9 @@
 2310503 = ( name="Khirimat" culture=thai_sukhothai }
 2310504 = ( name="Bankluai" culture=thai_sukhothai }
 2310601 = ( name="Takfa" culture=thai_sukhothai }
-2310651 = ( name="Lap-lae" culture=thai_sukhothai used_for_random=no}
+2310651 = ( name="Phanom-Mat" culture=thai_sukhothai used_for_random=no}
 2310701 = ( name="Khitchakut" culture=thai_sukhothai }
-2310711 = ( name="Simahosot" culture=thai_sukhothai }
+2310711 = ( name="Tha Nga" culture=thai_sukhothai }
 #Thai name derived from Chinese clan name/Xing -> "Sae"
 2310800 =  ( name="Saehongsa" culture=thai_central } #Hong
 2310801 =  ( name="Saetang" culture=thai_central } #Chen

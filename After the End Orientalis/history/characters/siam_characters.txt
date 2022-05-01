@@ -13,16 +13,16 @@
 #	- 23121xx - Characters in Chiang Mai/Chiang Rai
 #	- 23124xx - Characters in Phrae/Nan
 #2313 - South Thai (Currently share culture with central Thai)
-#   - 23131xx - d_Surat
-#	- 23132xx - d_nakhon_sri_thammarat
+#   - 23131xx - Surat
+#	- 23132xx - Nakhon Sri Thammarat
 #	- 23133xx - Songkhla & Phuket
-#	- 23135xx - d_Pattani
+#	- 23135xx - Pattani
 ####
 # All names, culture and stats in this chart are not final.
 
 ### Central Thai - Thai Kingdom
 2310001 ={
-	name="Phra Hao"
+	name="Hao"
 	dynasty=2310001 #Cheachaophandin
 	culture=thai_central
 	religion=dharmayuttika
@@ -240,6 +240,7 @@
 2310511 ={
 	name="Dam" # Black Prince
 	dynasty=2310502
+	father=2310513
 	culture=thai_sukhothai
 	religion=dharmayuttika
 	martial=7
@@ -252,11 +253,14 @@
 	trait=shrewd
 	trait=brave
 	trait=quick
+	trait=wroth
+	random_trait=no
 	2586.4.15={birth=yes}
 }
 2310512 ={
 	name="Kao" # White Prince
 	dynasty=2310502
+	father=2310513
 	culture=thai_sukhothai
 	religion=dharmayuttika
 	martial=4
@@ -269,6 +273,19 @@
 	trait=shrewd
 	trait=brave
 	trait=quick
+	random_trait=no
+	2510.1.1={birth=yes}
+	2590.8.13={death=yes}
+}
+2310513 ={
+	name="Thep" # White Prince
+	dynasty=2310502
+	culture=thai_sukhothai
+	religion=dharmayuttika
+	trait=martial_cleric
+	trait=pious
+	trait=content
+	random_trait=no
 	2589.4.15={birth=yes}
 }
 2310601 ={
@@ -302,10 +319,12 @@
 	trait=charismatic_negotiator
 	trait=theologian
 	trait=sturdy
+	trait=pious
+	random_trait=no
 	2580.4.15={birth=yes}
 }
 2310711 ={ # d_prachinburi
-	name="John"
+	name="Seubsai"
 	dynasty=2310711
 	culture=thai_central
 	religion=dharmayuttika
@@ -316,6 +335,9 @@
 	learning=6
 	trait=charismatic_negotiator
 	trait=sturdy
+	trait=erudite
+	trait=kind
+	random_trait=no
 	2580.4.15={birth=yes}
 }
 2310801 ={ # d_chonburi
@@ -641,7 +663,7 @@
 	2567.4.15={birth=yes}
 }
 2312401 ={ # c_uttharadit
-	name="Daab"
+	name="Thongsi"
 	dynasty=2310651
 	culture=thai_sukhothai
 	religion=dharmayuttika
@@ -879,7 +901,7 @@
 	2307.1.30={death=yes}
 }
 2310153 ={ # post-event reign
-	name="Kalpa-avasarn"
+	name="Kalpa-avasarn" #Mean; The Endtime
 	dynasty=2310199
 	culture=thai_central
 	religion=dharmayuttika
